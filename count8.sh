@@ -1,4 +1,3 @@
-for i in {1..10}
-do
-echo "$i"
-done
+#!/bin/bash
+echo 8
+bash count9.sh

@@ -1,6 +1,3 @@
-echo 
-for i in {1..10}
-do
-echo "$i"
-done
-
+#!/bin/bash
+echo 2
+bash count3.sh
